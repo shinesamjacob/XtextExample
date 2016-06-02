@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <relativePath>../my.mavenized.herolanguage.releng/pom.xml</relativePath>
+    <groupId>sam.xtext.mydsl.releng</groupId>
+    <artifactId>sam.xtext.mydsl.releng</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+  </parent>
+
+  <artifactId>sam.xtext.mydsl.feature</artifactId>
+  <packaging>eclipse-feature</packaging>
+
+  <name>Sam Language Feature</name>
+  <groupId>sam.xtext.mydsl.feature</groupId>
+  <version>1.0.0-SNAPSHOT</version>
+</project>
